@@ -1,0 +1,16 @@
+HTTP 1.1	HTTP 2
+Loads resources one after the other, so if one resource cannot be loaded	Is able to use a single TCP connection to send multiple streams of data at
+It blocks all the other resources behind it.	No one resource blocks any other resource.
+HTTP/1.1 transfer all the requests & responses in the plain text message form	HTTP/2 uses HPACK which is used to split data from header. it compresses the header.
+
+Objects in JavaScript may be defined as an unordered collection of related data, of primitive or reference types, in the form of “key: value” pairs. These keys can be variables or functions and are called properties and methods, respectively, in the context of an object.
+
+A code kata is a software development exercise in which the focus is not on solving a task or problem, but on learning new skills and developing successful routines. For each code kata, several solutions have to be found in order to learn from mistakes, gain experience and develop even better solutions
+
+1.	IP address stands for “Internet Protocol address.” The Internet Protocol is a set of rules for communication over the internet, such as sending mail, streaming video, or connecting to a website. An IP address identifies a network or device on the internet.
+2.	All network-connected devices come equipped with standardized ports that have an assigned number. These numbers are reserved for certain protocols and their associated function. Hypertext Transfer Protocol (HTTP) messages
+3.	The most commonly used HTTP request methods are GET, POST, PUT, PATCH, and DELETE. HTTP specifies a collection of request methods to specify what action is to be performed on a particular resource. 
+4.	A MAC address (media access control address) is a 12-digit hexadecimal number assigned to each device connected to the network. Primarily specified as a unique identifier during device manufacturing, the MAC address is often found on a device's network interface card (NIC)
+
+.
+
